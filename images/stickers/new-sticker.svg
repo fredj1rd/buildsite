@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.01005,0,0,1.01005,-0.40106,0)">
+        <path d="M20.122,0L22.154,1.759L24.528,0.496L26.118,2.663L28.713,1.961L29.781,4.427L32.467,4.32L32.96,6.962L35.603,7.455L35.495,10.141L37.962,11.21L37.259,13.804L39.426,15.395L38.164,17.768L39.923,19.801L38.164,21.834L39.426,24.207L37.259,25.798L37.962,28.392L35.495,29.461L35.603,32.147L32.96,32.64L32.467,35.282L29.781,35.175L28.713,37.641L26.118,36.939L24.528,39.106L22.154,37.843L20.122,39.602L18.089,37.843L15.715,39.106L14.125,36.939L11.53,37.641L10.462,35.175L7.776,35.282L7.283,32.64L4.64,32.147L4.748,29.461L2.281,28.392L2.984,25.798L0.817,24.207L2.079,21.834L0.32,19.801L2.079,17.768L0.817,15.395L2.984,13.804L2.281,11.21L4.748,10.141L4.64,7.455L7.283,6.962L7.776,4.32L10.462,4.427L11.53,1.961L14.125,2.663L15.715,0.496L18.089,1.759L20.122,0Z" style="fill:rgb(237,26,59);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-1.88996,0.0844744)">
+        <text x="5.525px" y="23.199px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:9.167px;fill:white;">НОВ<tspan x="25.084px 32.214px " y="23.199px 23.199px ">ОЕ</tspan></text>
+    </g>
+</svg>

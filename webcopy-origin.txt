@@ -1,0 +1,800 @@
+Uri: http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:08e6d246058c1330170d0afb993ea75d148f017d7417b4d6206abca349c5ab60&width=100%25&height=300&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\ajax\libs\malihu-custom-scrollbar-plugin\3.1.5\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://t.demowildbiz.ru/
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\index.htm
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/assets/cache_image/images/blog/i_250x200_b2c.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\cache_image\images\blog\i_250x200_b2c.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/cache_image/images/blog/palocki-susi-rolly-aponskaa-kuhna-soevyj-sous_250x200_240.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\cache_image\images\blog\palocki-susi-rolly-aponskaa-kuhna-soevyj-sous_250x200_240.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/cache_image/images/blog/sushi-sushi-rolly-sous-vassabi-imbir-set-japanese-food-pal-8_250x200_240.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\cache_image\images\blog\sushi-sushi-rolly-sous-vassabi-imbir-set-japanese-food-pal-8_250x200_240.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/cache_image/images/blog/upotreblenie-dolzhno-bit-normirovannim_250x200_240.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\cache_image\images\blog\upotreblenie-dolzhno-bit-normirovannim_250x200_240.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/ajaxform/css/default.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\ajaxform\css\default.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/components/ajaxform/css/lib/jquery.jgrowl.min.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\ajaxform\css\lib\jquery.jgrowl.min.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/components/ajaxform/js/default.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\ajaxform\js\default.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F2%2F1.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F2%2F2.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F2%2F3.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\3.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F2%2F4.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F3%2F5.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F3%2F6.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F3%2F7.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\7.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F3%2F8.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F4%2F10.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\10.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F4%2F11.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\11.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F4%2F12.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\12.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F4%2F9.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\9.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F5%2F13.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\13.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F5%2F14.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\14.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F5%2F15.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\15.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=1800&h=900&zc=0&far=&q=90&src=%2Fassets%2Fgallery%2F5%2F16.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\16.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F2%2F1.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F2%2F2.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F2%2F3.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\3-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F2%2F4.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F3%2F5.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F3%2F6.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F3%2F7.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\7-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F3%2F8.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F4%2F10.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F4%2F11.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\11-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F4%2F12.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F4%2F9.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F5%2F13.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F5%2F14.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\14-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F5%2F15.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\15-1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/connector.php?action=web/phpthumb&ctx=web&w=300&h=300&zc=1&far=C&q=90&src=%2Fassets%2Fgallery%2F5%2F16.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\16-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/components/gallery/css/web.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\gallery\css\web.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/components/minishop2/css/web/default.css?v=0450b29dea
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\minishop2\css\web\default.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/components/minishop2/css/web/lib/jquery.jgrowl.min.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\minishop2\css\web\lib\jquery.jgrowl.min.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/components/minishop2/js/web/default.js?v=0450b29dea
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\components\minishop2\js\web\default.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/images/products/29/450x450/lososs.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\29\450x450\lososs.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/29/lososs.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\29\lososs.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/31/450x450/lososs.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\31\450x450\lososs.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/31/lososs.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\31\lososs.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/32/450x450/losos-ss.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\32\450x450\losos-ss.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/32/losos-ss.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\32\losos-ss.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/34/450x450/soberu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\34\450x450\soberu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/34/soberu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\34\soberu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/37/450x450/opalu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\37\450x450\opalu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/37/opalu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\37\opalu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/39/450x450/opalu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\39\450x450\opalu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/39/opalu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\39\opalu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/40/450x450/bgb.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\40\450x450\bgb.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/40/bgb.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\40\bgb.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/41/450x450/ikr.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\41\450x450\ikr.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/41/ikr.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\41\ikr.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/43/450x450/sas.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\43\450x450\sas.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/43/sas.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\43\sas.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/45/450x450/tun.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\45\450x450\tun.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/45/tun.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\45\tun.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/47/450x450/soberu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\47\450x450\soberu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/47/soberu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\47\soberu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/48/450x450/soberu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\48\450x450\soberu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/48/soberu.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\48\soberu.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/50/450x450/sas.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\50\450x450\sas.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/50/sas.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\50\sas.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/53/450x450/salad.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\53\450x450\salad.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/53/salad.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\53\salad.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/56/450x450/ss.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\56\450x450\ss.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/56/ss.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\56\ss.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/63/450x450/tuun.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\63\450x450\tuun.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/images/products/63/tuun.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\images\products\63\tuun.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/bootstrap/4/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\bootstrap\4\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/bootstrap/4/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\bootstrap\4\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/bootstrap/4/js/popper.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\bootstrap\4\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/css/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/css/style3.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\css\style3.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/fontawesome4/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\fontawesome4\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/fontawesome4/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\fontawesome4\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/fontawesome4/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\fontawesome4\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/fontawesome4/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\fontawesome4\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/fontawesome4/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\fontawesome4\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/fontawesome4/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\fontawesome4\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/fontawesome4/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\fontawesome4\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/formstyler/jquery.formstyler.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\formstyler\jquery.formstyler.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/formstyler/jquery.formstyler.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\formstyler\jquery.formstyler.min.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/formstyler/jquery.formstyler.theme.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\formstyler\jquery.formstyler.theme.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/img/app-store-button.png
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\img\app-store-button.png
+Content Type: image/png
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/img/appgallery-button.png
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\img\appgallery-button.png
+Content Type: image/png
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/img/cart.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\img\cart.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/img/cartr.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\img\cartr.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/img/google-play-button.png
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\img\google-play-button.png
+Content Type: image/png
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/img/phone.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\img\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/js/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\js\jquery-3.4.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/js/jquery.fancybox.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\js\jquery.fancybox.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/js/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\js\jquery.fancybox.min.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/js/jquery.mask.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\js\jquery.mask.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/js/jquery.mask.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\js\jquery.mask.min.js
+Content Type: application/x-javascript
+
+Uri: https://t.demowildbiz.ru/assets/newtemplate/LeftSidebar/jquery.mCustomScrollbar.min.css
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assets\newtemplate\LeftSidebar\jquery.mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: https://t.demowildbiz.ru/assorti
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\assorti.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/avokado
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\avokado.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/blog
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\blog.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/cart
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\cart.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/cet-malenkij
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\cet-malenkij.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/contacts
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\contacts.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/cookie
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\cookie.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/delivery
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\delivery.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/detskoe
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\detskoe.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/dim-samy
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\dim-samy.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/dostavka-za-40-minut
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\dostavka-za-40-minut.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/goryachee
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\goryachee.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/ikra
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\ikra.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/images/banners/banner-dostavka.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\banners\banner-dostavka.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/banners/banner-kontacts.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\banners\banner-kontacts.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/blog/i.jpeg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\blog\i.jpeg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/blog/palocki-susi-rolly-aponskaa-kuhna-soevyj-sous.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\blog\palocki-susi-rolly-aponskaa-kuhna-soevyj-sous.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/blog/sushi-sushi-rolly-sous-vassabi-imbir-set-japanese-food-pal-8.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\blog\sushi-sushi-rolly-sous-vassabi-imbir-set-japanese-food-pal-8.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/blog/upotreblenie-dolzhno-bit-normirovannim.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\blog\upotreblenie-dolzhno-bit-normirovannim.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/deserty.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\deserty.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/deti.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\deti.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/dim-samy.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\dim-samy.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/dnya.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\dnya.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/modgi.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\modgi.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/napitki.png
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\napitki.png
+Content Type: image/png
+
+Uri: https://t.demowildbiz.ru/images/categories/novinki.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\novinki.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/rolly.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\rolly.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/salaty.png
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\salaty.png
+Content Type: image/png
+
+Uri: https://t.demowildbiz.ru/images/categories/sashimi.png
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\sashimi.png
+Content Type: image/png
+
+Uri: https://t.demowildbiz.ru/images/categories/sety.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\sety.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/soberi-sam.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\soberi-sam.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/sous.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\sous.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/supy.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\supy.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/sushi.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\sushi.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/vegetarian.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\vegetarian.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/categories/zakuski.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\categories\zakuski.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/dostavka/24.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\24.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/bag.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\bag.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/card.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\card.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/cash.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\cash.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/clock.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/delivery.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\delivery.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/kassa.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\kassa.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/mask.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\mask.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/payment.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\payment.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/dostavka/timer.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\dostavka\timer.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/logogo-b.png
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\logogo-b.png
+Content Type: image/png
+
+Uri: https://t.demowildbiz.ru/images/news/slide2.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\news\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/news/slide3.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\news\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/news/slide4.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\news\slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/slider/slide1.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\slider\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/slider/slide2-2.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\slider\slide2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/slider/slide3.jpg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\slider\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://t.demowildbiz.ru/images/stickers/hot-sticker.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\stickers\hot-sticker.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/stickers/new-sticker.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\stickers\new-sticker.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/images/stickers/popular-sticker.svg
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\images\stickers\popular-sticker.svg
+Content Type: image/svg+xml
+
+Uri: https://t.demowildbiz.ru/kopiya-assorti
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\kopiya-assorti.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/kopiya-krab-i-krevetka
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\kopiya-krab-i-krevetka.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/kopiya-nabor-«soberi-roll»
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\kopiya-nabor-«soberi-roll».html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/kopiya-party-de-luxe
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\kopiya-party-de-luxe.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/kopiya-roll-s-tunczom
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\kopiya-roll-s-tunczom.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/losos
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\losos.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/menyu
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\menyu.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/menyu-dnya
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\menyu-dnya.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/modzhi
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\modzhi.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/napitki
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\napitki.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/news
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\news.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/novinki
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\novinki.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/politica
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\politica.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/pryanyij-losos
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\pryanyij-losos.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/roll-filadelfiya-v-podarok
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\roll-filadelfiya-v-podarok.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/rollyi
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\rollyi.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/salatyi
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\salatyi.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/sashimi
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\sashimi.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/setyi
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\setyi.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/skidka-25-na-pervyij-zakaz
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\skidka-25-na-pervyij-zakaz.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/sober
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\sober.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/soberi-sam
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\soberi-sam.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/soglasie-na-obrabotku-dannyix
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\soglasie-na-obrabotku-dannyix.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/sousyi
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\sousyi.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/sup-miso
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\sup-miso.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/supyi
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\supyi.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/sushi
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\sushi.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/t
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\t.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/tunecz
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\tunecz.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/u-nas-novoe-menyu
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\u-nas-novoe-menyu.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/ugor
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\ugor.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/vegetarianskoe
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\vegetarianskoe.html
+Content Type: text/html
+
+Uri: https://t.demowildbiz.ru/zakuski
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\zakuski.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js?onload=ReCaptchaCallbackV3&render=6LcI6OQZAAAAAByi0ECGKdWjCbe762_WOXJvDNL_
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\es5-shims\0.0.2\es5-shims.min.js
+Content Type: application/x-javascript
+
+Uri: https://yastatic.net/share2/share.js
+File Name: C:\Downloaded Web Sites\t.demowildbiz.ru\share2\share.js
+Content Type: application/javascript
+
